@@ -10,8 +10,6 @@ Network: true
 */
 
 class Style_Stripper {
-	private $done;
-	
 	function __construct(){
 	    add_action('add_meta_boxes', array(&$this, 'show_filtered_content'), 1, 2);
 		add_filter('the_content', array(&$this, 'filter_content'));
