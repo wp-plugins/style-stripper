@@ -5,7 +5,7 @@ Plugin URI: http://judenware.com/projects/wordpress/style-stripper/
 Description: Removes all inline style tags from the content of posts/pages/custom post types.
 Author: ericjuden
 Version: 1.0
-Author URI: http://www.judenware.com
+Author URI: http://ericjuden.com
 Network: true
 */
 
