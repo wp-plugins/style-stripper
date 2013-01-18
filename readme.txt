@@ -2,7 +2,7 @@
 Contributors: ericjuden
 Tags: remove, delete, styles, inline styles, multisite
 Requires at least: 3.0
-Tested up to: 3.4
+Tested up to: 3.5
 Stable tag: trunk 
 
 == Description ==
